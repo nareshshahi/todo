@@ -1,0 +1,98 @@
+body{
+    background-color: #ffcc66;
+}
+.box1{
+    height: 80px;
+    width: 100%;
+    justify-content: center;
+    background-color: black;
+    color:white;    
+}
+.h2{
+    font-size: 50px;
+    margin-top: 70px;
+   margin-left: 600px;
+   text-decoration: underline;
+ 
+}
+.h2:hover{
+    font-size: 51px;
+   cursor: pointer;
+   color: aliceblue;
+
+}
+.box2{
+    width: 800px;
+    height:60px;
+    border:2px solid black;
+   text-align: center;
+   font-size: 30px;
+   margin-top: 80px;
+   margin-left: 300px;
+   font-weight: 600;
+   border-radius: 5px;
+   background-color: aliceblue;
+   
+}
+.box3{
+    width: 800px;
+    height:60px;
+    border:2px solid black;
+   text-align: center;
+   font-size: 30px;
+   margin-top: 3px;
+   margin-left: 300px;
+   font-weight: 600;
+   border-radius: 5px;
+   background-color: aliceblue;
+
+
+
+}
+.you{
+    margin-top: 60px;
+    margin-left: 700px;
+    height: 40px;
+    width:150px;
+    border-radius: 10px;
+    background-color:#16825d ;
+    cursor: pointer;
+    color: white ;
+    font-weight: bold;
+    font-size: large;
+   
+   
+}
+.you:hover{
+    background-color: white;
+    color: black;
+    border:2px solid black;
+    
+
+
+}
+
+
+.how{
+    border:2px solid green;
+    border-radius: 12px;
+    height: 30px;
+    width: 300px;
+    color: blue;
+    font-weight: 700;
+    margin: 9px;
+    text-align: center;
+}
+.now{
+    border:2px solid green;
+    border-radius: 12px;
+    height: 30px;
+    width: 310px;
+    color: blue;
+    font-weight: 700;
+    margin: 9px;
+    text-align: center;
+    margin-left: 114px;
+
+}
+    
